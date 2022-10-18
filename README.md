@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **PHP,mySQL**
+- 🌱 I’m currently learning **PHP, mySQL**
 
 - 👯 I’m looking to collaborate on **Linkedin**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://www.tutorialssajal.com/](https://www.tutorialssajal.com/)
 
-- 💬 Ask me about **Java,Android Development**
+- 💬 Ask me about **Java, Android Application Development**
 
 - 📫 How to reach me **mahatosajal65@gmail.com**
 
